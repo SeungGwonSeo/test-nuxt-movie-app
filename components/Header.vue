@@ -19,9 +19,9 @@
     <div
       class="user"
       @click="toAbout">
-      <img
+      <!-- <img
         :src="image"
-        :alt="name" />
+        :alt="name" /> -->
     </div>
   </header>
 </template>
