@@ -4,9 +4,9 @@
       <Loader
         v-if="imageLoading"
         absolute />
-      <img
+      <!-- <img
         :src="image"
-        :alt="name" />
+        :alt="name" /> -->
     </div>
     <div class="name">
       {{ name }}
